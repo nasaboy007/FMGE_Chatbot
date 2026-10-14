@@ -49,7 +49,7 @@ FMGE_Chatbot/
 1. Clone the repository:
 
 git clone https://github.com/nasaboy007/FMGE_Chatbot.git
-cd fmge-medical-rag
+cd FMGE_Chatbot
 
 2. Create and activate a virtual environment (Recommended):
 
